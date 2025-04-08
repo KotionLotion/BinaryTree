@@ -14,12 +14,12 @@
 #-------------------------
 #1. Make sure you have g++ installed
 #2. Compile using the following command:
-#   g++ -std=c++11 main.cpp BinaryTree.cpp -o bst
+#   g++ -std=c++11 main.cpp BinaryTree.cpp -o BinTree
 
 #Execution:
 #---------
 #Run the compiled program:
-#./bst
+#./BinTree
 
 #Video Demonstration:
 #-------------------
